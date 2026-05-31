@@ -1,0 +1,12 @@
+Al ejecutar el servidor y acceder a la ruta http://localhost:3000, 
+el navegador muestra el mensaje "Servidor activo", lo que indica que 
+el servidor está funcionando correctamente.
+
+Al ingresar a la ruta http://localhost:3000/saludo, el servidor 
+responde con el mensaje "Hola comunidad", mostrando una respuesta 
+fija definida en esa ruta.
+
+En la ruta http://localhost:3000/mensaje/juan, el servidor toma el 
+nombre "juan" desde la URL y responde con "Hola juan", lo que 
+demuestra el uso de parámetros dinámicos en Express.
+

@@ -1,0 +1,10 @@
+La ruta POST /reporte permite recibir información enviada por el 
+usuario a través del cuerpo de la solicitud. En este caso, recibe 
+un mensaje y responde con un objeto JSON que confirma que el reporte 
+fue recibido junto con el mensaje enviado.
+
+Esta ruta podría servir en una aplicación comunitaria para que 
+los usuarios envíen reportes como problemas en el barrio, alertas de 
+seguridad o necesidades de la comunidad. De esta manera, 
+la información se organiza y puede ser procesada por el sistema 
+para tomar acciones o generar estadísticas.
